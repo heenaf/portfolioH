@@ -3,23 +3,18 @@ import React from 'react'
 const About = () => {
   return (
     <div id="about" className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen">
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg p-2 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
             <p className="text-4xl font-bold inline underline "> About</p>
         </div>
         <p className="text-xl mt-10">
-        I'm a passionate Computer Science Engineering student currently in my pre-final year. 
-        With a deep-rooted enthusiasm for coding ,I'm dedicated to crafting innovative websites and projects
-         with real-world applications.
-I find joy in exploring new technologies and skills to enhance my expertise. My core focus lies in front-end development, where I specialize in leveraging tools and frameworks like HTML, CSS, JavaScript, Bootstrap, and more to bring ideas to life in the digital realm.
+        I am a passionate and self-driven Computer Science Engineering student currently in my pre-final year, with a strong enthusiasm for coding and real-world problem-solving. I specialize in front-end development, leveraging technologies like HTML, CSS, JavaScript, and React.js to create responsive and visually engaging web applications. Continuously exploring new tools and trends, I strive to expand my expertise and stay ahead in the ever-evolving tech landscape.
 
-Besides building websites, I enjoy reading books and writing poetry in my free time. I love connecting with others who share my interests, which helps me stay up-to-date with the latest in technology.
+Beyond academics, I actively participate in technical events, including presenting research papers at reputed institutions and securing awards in paper presentation competitions. My extracurricular involvement reflects a proactive mindset and a drive for continuous improvement. I also enjoy reading and writing poetry, which fuel my creativity and attention to detail.
 
         </p>
         <br />
-        <p className="text-xl">I'm currently working on two exciting projects: developing an e-commerce website and collaborating on an AI-assisted gardening app. These ventures showcase my blend of creativity and functionality, highlighting my dedication to impactful solutions.
-I am committed to expanding my knowledge and skills to become a true expert in my field, and I eagerly anticipate the opportunities and challenges that lie ahead in my journey as a developer.
-
+        <p className="text-xl">Blending technical precision with creative flair, I aim to build impactful digital solutions. I’m excited to connect, collaborate, and contribute to innovative projects as I continue to grow on my journey as a developer.
 Let's connect, collaborate, and create something extraordinary together!
         </p>
       </div>
